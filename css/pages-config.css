@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+ }
+
+:root {
+    --color-primary: #917758;
+    --color-secondary: #3c2915;
+    --color-primary-light: #f5eee6;
+    --color-baloon: #191919;
+}
+
+body
+{
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    width: 1170px;
+    margin: 0 auto;
+}

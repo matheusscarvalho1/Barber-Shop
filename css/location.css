@@ -1,0 +1,55 @@
+.location {
+    padding: 100px 0;
+    background: url(../images/bg-location.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.location .head {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background-color: var(--color-baloon);
+    padding: 40px;
+    
+}
+
+.location .head .info {
+    display: flex;
+    align-items: center;
+}
+
+.location .head .info .icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid var(--color-primary);
+    border-radius: 100%;
+    padding: 10px;
+    width: 50px;
+    width: 50px;
+    margin-right: 15px;
+
+}
+
+.location .head .info .text span {
+    display: block;
+    font-size: 13px;
+}
+
+.location .head .info .text span:first-child {
+    color: silver;
+}
+
+.location .head .info .text span:last-child {
+    color: white;
+}
+
+.location .map {
+    width: 100%;
+
+}
+
+.location .map iframe { 
+    width: 100%;
+}
