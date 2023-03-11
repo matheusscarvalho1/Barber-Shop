@@ -8,7 +8,6 @@ Projeto pessoal desenvolvido afim de treinar meus conhecimentos em HTML e CSS
 ![image](https://user-images.githubusercontent.com/73304785/224451177-0db26b92-2bf1-4cf7-ae92-00d922f4abfc.png)
 
 <hr>
-<b><center</center></b>
 <b><h2 align="center">Seção do site - Sobre</h2></b>
 
 ![image](https://user-images.githubusercontent.com/73304785/224450776-6f5b8855-9881-4381-9bdb-9b0c949ff391.png)
