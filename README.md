@@ -5,7 +5,7 @@ Projeto pessoal desenvolvido afim de treinar meus conhecimentos em HTML e CSS
 # Layout do Projeto
 Seção do site - Home
 
-![image](https://user-images.githubusercontent.com/73304785/224450742-621ca58e-4fe4-4b4f-9a6c-c779c391d8bc.png)
+![image](https://user-images.githubusercontent.com/73304785/224451177-0db26b92-2bf1-4cf7-ae92-00d922f4abfc.png)
 
 <hr>
 Seção do site - Sobre
@@ -41,8 +41,10 @@ Seção do site - Localização
 
 # Autor
 
-Matheus de Souza Carvalho
+<b>Matheus de Souza Carvalho</b>
 
-Linkein: https://www.linkedin.com/in/matheusscarvalho/
+Linkein: 
+https://www.linkedin.com/in/matheusscarvalho/
 
-e-mail: matheusdocarvalho@gmail.com
+E-mail: 
+matheusdocarvalho@gmail.com
