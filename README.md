@@ -37,6 +37,7 @@ Projeto pessoal desenvolvido afim de treinar meus conhecimentos em HTML e CSS
 # Tecnologias utilizadas
 
 • HTML
+
 • CSS
 
 
@@ -44,7 +45,7 @@ Projeto pessoal desenvolvido afim de treinar meus conhecimentos em HTML e CSS
 
 <b>Matheus de Souza Carvalho</b>
 
-Linkein: 
+Linkedin: 
 https://www.linkedin.com/in/matheusscarvalho/
 
 E-mail: 
