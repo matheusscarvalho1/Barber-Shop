@@ -128,7 +128,7 @@ body
 .about .timing {
     width: 33%;
     padding: 20px;
-    background-image: url(../images/brush-big.jpg);
+    background-image: url(/images/brush-big.jpg);
     position: relative;
     top: -50px;
 
@@ -331,6 +331,7 @@ body
     margin-top: 10px;
     text-transform: uppercase;
     font-weight: bold;
+    cursor: pointer;
  }
 
  /***************

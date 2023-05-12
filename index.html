@@ -50,7 +50,7 @@
         <div class="container">
             <div class="timing">
                 <div class="overlay">
-                <img src="images/classic-cut.png" alt="Horários" class="icon-cut">
+                <img src="/images/classic-cut.png" alt="Horários" class="icon-cut">
                 <h3>Horários</h3>
                     <div class="text">
                         <h4> Segunda à Sexta </h4>
@@ -133,39 +133,39 @@
             <h2>Faça um Agendamento</h2>
             <img src="images/heading-ic-white.png" alt="Faça um agendamento">
 
-            <form>
+            <form class="form" action="https://formsubmit.co/matheusdocarvalho1@gmail.com" method="POST">
                 <div class="personal-data">
                     <div class="input-wrapper">
                         <label>Nome</label>
-                        <input type="text" placeholder="Digite o seu nome">
+                        <input type="text" name="nome" placeholder="Digite o seu nome" required>
                     </div>
                     <div class="input-wrapper">
                         <label>E-mail</label>
-                        <input type="text" placeholder="Digite o seu e-mail">
+                        <input type="text" name="email" placeholder="Digite o seu e-mail" required>
                     </div>
                     <div class="input-wrapper">
                         <label>Telefone</label>
-                        <input type="text" placeholder="Digite o seu telefone">
+                        <input type="text" name="telefone" placeholder="Digite o seu telefone" required>
                     </div>
                     <div class="input-wrapper">
                         <label>Tipo de Serviço</label>
-                        <select>
+                        <select name="servico" required>
                             <option value="cortar cabelo padrao">Corte padrão</option>
                             <option value="corte estilizado">Corte estilizado</option>
                             <option value="fazer a barba">Fazer a barba</option>
-                            <option value="cabelo padrao e barba">Cortar pardão e fazer a barba</option>
+                            <option value="cabelo padrao e barba">Corte padrão e fazer a barba</option>
                             <option value="corte estilizado e barba ">Corte estilizado e barba</option>
                             <option value="relaxamento no cabelo">Fazer relaxamento no cabelo</option>
                         </select>
                     </div>
                 </div>
-                <div class="input-wrapper">
+                <div  class="input-wrapper">
                     <label>Mensagem</label>
-                    <textarea></textarea>
+                    <textarea placeholder="Digite detalhes do corte ou horário que deseja cortar" name="mensagem"required></textarea>
                 </div>
 
 
-                <button>Enviar</button>
+                <button type="submit">Enviar</button>
 
 
             </form>
@@ -257,7 +257,8 @@
     </section>
 
     <footer class="footer">
-        © 2022 Barber Shop - Todos os direitos reservados
+        © 2023 Barber Shop - Todos os direitos reservados
+            <p>Developed by Matheus Carvalho</p>
     </footer>
 </body>
 </html>
